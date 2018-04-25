@@ -1,7 +1,7 @@
- #!bin/bash
- s=1
- m=0
- h=0
+#!bin/bash
+s=1
+m=0
+h=0
 d=0
 y=0
 while [ $s -lt 62 ]; do
